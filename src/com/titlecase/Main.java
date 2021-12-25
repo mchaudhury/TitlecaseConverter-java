@@ -14,6 +14,12 @@ public class Main {
         JButton convertButton = new JButton("convert");
         JLabel output = new JLabel();
         output.setPreferredSize(new Dimension(300, 40));
+
+        JTextField input = new JTextField();
+        input.setPreferredSize(new Dimension(300, 40));
+        JButton convertButton = new JButton("convert");
+        JLabel output = new JLabel();
+        output.setPreferredSize(new Dimension(300, 40));
         
 
         /* Statement lambda */
