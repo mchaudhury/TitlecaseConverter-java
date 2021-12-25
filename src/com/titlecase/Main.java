@@ -14,7 +14,7 @@ public class Main {
         JButton convertButton = new JButton("convert");
         JLabel output = new JLabel();
         output.setPreferredSize(new Dimension(300, 40));
-        output.setPreferredSize(new Dimension(300, 40));
+        
 
         /* Statement lambda */
 /*
